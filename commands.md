@@ -9,3 +9,7 @@
 4. **git push** - Uploads local commits to a remote repository.
 
 5. **git pull** - Downloads and integrates changes from a remote repository.
+
+6. git branch - Lists, creates, or deletes branches.
+
+7. git merge - Combines changes from different branches.
