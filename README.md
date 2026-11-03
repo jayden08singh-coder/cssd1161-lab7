@@ -10,3 +10,5 @@ commands practice for Lab 7.
 - Merge conflict resolution
 - Remote collaboration
 - Pull requests
+
+Edited by B
